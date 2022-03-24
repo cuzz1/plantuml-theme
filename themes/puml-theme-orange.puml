@@ -1,0 +1,61 @@
+!define FONT #703B3B
+!define LINE #F0134D
+!define BACKGROUND #F5F0E3
+!define LINEBACKGROUND #FF6F5E
+
+skinparam Arrow {
+  FontColor FONT
+}
+
+skinparam sequence {
+ArrowColor LINE
+LifeLineBorderColor LINE
+LifeLineBackgroundColor LINEBACKGROUND
+ParticipantBorderColor LINE
+ParticipantBackgroundColor BACKGROUND
+ParticipantFontSize 17
+ParticipantFontColor FONT
+}
+
+skinparam component {
+  BorderColor LINE
+  BackgroundColor BACKGROUND
+  ArrowColor LINE
+  FontColor FONT
+}
+
+skinparam rectangle {
+  FontColor FONT
+  BorderColor LINE
+}
+
+skinparam frame {
+  	BorderColor LINE
+	FontColor FONT
+}
+
+skinparam card {
+  	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
+
+skinparam class {
+	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
+
+skinparam ClassAttribute {
+  FontColor FONT
+}
+
+skinparam ClassStereotype {
+  FontColor FONT
+}
+
+skinparam state {
+  	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
