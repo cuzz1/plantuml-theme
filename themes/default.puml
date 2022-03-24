@@ -35,13 +35,13 @@ skinparam frame {
 }
 
 skinparam card {
-  	 BackGroundColor BACKGROUND
+     BackGroundColor BACKGROUND
      FontColor FONT
      BorderColor LINE
 }
 
 skinparam class {
-	 BackGroundColor BACKGROUND
+     BackGroundColor BACKGROUND
      FontColor FONT
      BorderColor LINE
 }
@@ -55,7 +55,7 @@ skinparam ClassStereotype {
 }
 
 skinparam state {
-  	 BackGroundColor BACKGROUND
+     BackGroundColor BACKGROUND
      FontColor FONT
      BorderColor LINE
 }
